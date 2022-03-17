@@ -3,8 +3,12 @@
 #include <stdint.h>
 #include "source2.c"
 #include <time.h>
+
+// upload on 03-17-22.
+
 // Just a personal usefull reminder "test", as sharp as efficient, like most of c code usally
 // since they use the system host language (unix OS...). 
+
 void function1(int value1);
 int main(int argc, char** argv){
 	// slice about 200ms as interval
